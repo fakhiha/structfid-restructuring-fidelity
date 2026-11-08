@@ -1,6 +1,6 @@
-# Detecting Structural Fidelity Failures in GenAI Text Restructuring
+# Same Words, Different Meaning: Detecting Structural Fidelity Failures in GenAI Text Restructuring
 
-Code and data for the Research Methodology course paper by Fakhiha Rameen.
+Code and data for the Research Methodology Assignment 2 paper by Fakhiha Rameen (26I-7821).
 
 GenAI assistants often *restructure* text for accessibility. They keep the words but add headings, split paragraphs, turn prose into bullets and reorder sentences. This repository contains:
 
@@ -31,6 +31,8 @@ src/
   analyze_annotation.py  agreement of annotations with CSD and judges
 data/                  passages, synthetic benchmark, real outputs, annotation keys
 results_prev/          v1 baseline scores (MiniCheck, BERTScore, ROUGE-L, PPL)
+results_v3/            v3 run (3B dependency probe) from notebooks/colab_run_v3.ipynb
+notebooks/             Colab notebook used to run the v1-v3 experiments
 results_v4/            final CSD scores and summary metrics
 results_judges/        round-1 judge outputs and analysis
 results_judges2/       Phi-4 judge outputs
