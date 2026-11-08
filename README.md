@@ -1,4 +1,4 @@
-# Same Words, Different Meaning: Detecting Structural Fidelity Failures in GenAI Text Restructuring
+# Detecting Structural Fidelity Failures in GenAI Text Restructuring
 
 Code and data for the Research Methodology Assignment 2 paper by Fakhiha Rameen (26I-7821).
 
