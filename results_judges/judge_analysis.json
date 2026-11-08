@@ -1,0 +1,131 @@
+{
+ "judges": [
+  "OLMo-2-1124-7B-Instruct",
+  "Phi-3.5-mini-instruct",
+  "granite-3.1-8b-instruct"
+ ],
+ "validation_synthetic": {
+  "OLMo-2-1124-7B-Instruct": {
+   "accuracy": 0.5,
+   "balanced_accuracy": 0.5,
+   "auc_p_problem": 0.5855111111111111,
+   "recall_harmful": 1.0,
+   "false_alarm_benign": 1.0,
+   "type_accuracy_on_harmful": 0.2,
+   "share_answering_problem": 1.0
+  },
+  "Phi-3.5-mini-instruct": {
+   "accuracy": 0.56,
+   "balanced_accuracy": 0.56,
+   "auc_p_problem": 0.6020444444444444,
+   "recall_harmful": 0.8266666666666667,
+   "false_alarm_benign": 0.7066666666666667,
+   "type_accuracy_on_harmful": 0.3333333333333333,
+   "share_answering_problem": 0.7666666666666667
+  },
+  "granite-3.1-8b-instruct": {
+   "accuracy": 0.54,
+   "balanced_accuracy": 0.54,
+   "auc_p_problem": 0.5284444444444445,
+   "recall_harmful": 0.48,
+   "false_alarm_benign": 0.4,
+   "type_accuracy_on_harmful": 0.10666666666666667,
+   "share_answering_problem": 0.44
+  },
+  "majority": {
+   "accuracy": 0.5466666666666666,
+   "balanced_accuracy": 0.5466666666666666,
+   "recall_harmful": 0.8666666666666667,
+   "false_alarm_benign": 0.7733333333333333
+  }
+ },
+ "agreement_real": {
+  "fleiss_kappa_binary": -0.3037950336923652,
+  "fleiss_kappa_6way": -0.29685264663805466,
+  "pairwise_cohen_binary": {
+   "OLMo-2-1124-7B-Instruct vs Phi-3.5-mini-instruct": 0.0,
+   "OLMo-2-1124-7B-Instruct vs granite-3.1-8b-instruct": 0.0,
+   "Phi-3.5-mini-instruct vs granite-3.1-8b-instruct": 0.06130268199233724
+  },
+  "share_problem_by_judge": {
+   "OLMo-2-1124-7B-Instruct": 1.0,
+   "Phi-3.5-mini-instruct": 0.42857142857142855,
+   "granite-3.1-8b-instruct": 0.023166023166023165
+  },
+  "unanimous_share": 0.023166023166023165
+ },
+ "failures_by_model_real": {
+  "ChatGPT": {
+   "moved_sentences": 100,
+   "flagged_majority": 47,
+   "flagged_share": 0.47,
+   "outputs_with_any_failure": 20,
+   "outputs": 20,
+   "unanimous_flags": 2,
+   "types": {
+    "F1": 46,
+    "F4": 1
+   }
+  },
+  "Claude": {
+   "moved_sentences": 93,
+   "flagged_majority": 39,
+   "flagged_share": 0.41935483870967744,
+   "outputs_with_any_failure": 20,
+   "outputs": 20,
+   "unanimous_flags": 2,
+   "types": {
+    "F1": 39
+   }
+  },
+  "Gemini": {
+   "moved_sentences": 66,
+   "flagged_majority": 25,
+   "flagged_share": 0.3787878787878788,
+   "outputs_with_any_failure": 15,
+   "outputs": 20,
+   "unanimous_flags": 2,
+   "types": {
+    "F1": 24,
+    "F3": 1
+   }
+  }
+ },
+ "csd_vs_judges_real": {
+  "need_x_change": {
+   "auc_vs_majority": 0.5826637448259069,
+   "ci95": [
+    0.5185048768459997,
+    0.6487341507093747
+   ]
+  },
+  "need": {
+   "auc_vs_majority": 0.5808680301923544,
+   "ci95": [
+    0.51711111299397,
+    0.647540924093868
+   ]
+  },
+  "change": {
+   "auc_vs_majority": 0.5273313854394935,
+   "ci95": [
+    0.4548423016732876,
+    0.5987434620574369
+   ]
+  },
+  "at_dev_threshold": {
+   "threshold": 0.5000019066403244,
+   "precision": 0.5377358490566038,
+   "recall": 0.5135135135135135,
+   "flag_rate": 0.4092664092664093,
+   "base_rate_majority": 0.42857142857142855
+  },
+  "auc_vs_unanimous_only": NaN,
+  "output_level_auc": 0.8072727272727273,
+  "judge_vs_other_two_auc": {
+   "OLMo-2-1124-7B-Instruct": 0.8343214756258235,
+   "Phi-3.5-mini-instruct": 0.8735177865612649,
+   "granite-3.1-8b-instruct": 0.7467129291453616
+  }
+ }
+}

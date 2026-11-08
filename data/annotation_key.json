@@ -1,0 +1,702 @@
+[
+ {
+  "item": "S001",
+  "out_id": "P13-Gemini",
+  "app": "Gemini",
+  "passage_id": "P13",
+  "seg": 2
+ },
+ {
+  "item": "S002",
+  "out_id": "P15-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P15",
+  "seg": 7
+ },
+ {
+  "item": "S003",
+  "out_id": "P04-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P04",
+  "seg": 13
+ },
+ {
+  "item": "S004",
+  "out_id": "P20-Claude",
+  "app": "Claude",
+  "passage_id": "P20",
+  "seg": 4
+ },
+ {
+  "item": "S005",
+  "out_id": "P14-Claude",
+  "app": "Claude",
+  "passage_id": "P14",
+  "seg": 2
+ },
+ {
+  "item": "S006",
+  "out_id": "P12-Gemini",
+  "app": "Gemini",
+  "passage_id": "P12",
+  "seg": 6
+ },
+ {
+  "item": "S007",
+  "out_id": "P05-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P05",
+  "seg": 9
+ },
+ {
+  "item": "S008",
+  "out_id": "P09-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P09",
+  "seg": 8
+ },
+ {
+  "item": "S009",
+  "out_id": "P09-Gemini",
+  "app": "Gemini",
+  "passage_id": "P09",
+  "seg": 3
+ },
+ {
+  "item": "S010",
+  "out_id": "P17-Claude",
+  "app": "Claude",
+  "passage_id": "P17",
+  "seg": 3
+ },
+ {
+  "item": "S011",
+  "out_id": "P04-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P04",
+  "seg": 17
+ },
+ {
+  "item": "S012",
+  "out_id": "P13-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P13",
+  "seg": 3
+ },
+ {
+  "item": "S013",
+  "out_id": "P02-Claude",
+  "app": "Claude",
+  "passage_id": "P02",
+  "seg": 0
+ },
+ {
+  "item": "S014",
+  "out_id": "P01-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P01",
+  "seg": 4
+ },
+ {
+  "item": "S015",
+  "out_id": "P07-Gemini",
+  "app": "Gemini",
+  "passage_id": "P07",
+  "seg": 5
+ },
+ {
+  "item": "S016",
+  "out_id": "P11-Claude",
+  "app": "Claude",
+  "passage_id": "P11",
+  "seg": 5
+ },
+ {
+  "item": "S017",
+  "out_id": "P16-Gemini",
+  "app": "Gemini",
+  "passage_id": "P16",
+  "seg": 5
+ },
+ {
+  "item": "S018",
+  "out_id": "P02-Gemini",
+  "app": "Gemini",
+  "passage_id": "P02",
+  "seg": 7
+ },
+ {
+  "item": "S019",
+  "out_id": "P08-Gemini",
+  "app": "Gemini",
+  "passage_id": "P08",
+  "seg": 3
+ },
+ {
+  "item": "S020",
+  "out_id": "P16-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P16",
+  "seg": 7
+ },
+ {
+  "item": "S021",
+  "out_id": "P07-Gemini",
+  "app": "Gemini",
+  "passage_id": "P07",
+  "seg": 2
+ },
+ {
+  "item": "S022",
+  "out_id": "P14-Claude",
+  "app": "Claude",
+  "passage_id": "P14",
+  "seg": 4
+ },
+ {
+  "item": "S023",
+  "out_id": "P05-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P05",
+  "seg": 15
+ },
+ {
+  "item": "S024",
+  "out_id": "P12-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P12",
+  "seg": 6
+ },
+ {
+  "item": "S025",
+  "out_id": "P18-Claude",
+  "app": "Claude",
+  "passage_id": "P18",
+  "seg": 11
+ },
+ {
+  "item": "S026",
+  "out_id": "P17-Claude",
+  "app": "Claude",
+  "passage_id": "P17",
+  "seg": 6
+ },
+ {
+  "item": "S027",
+  "out_id": "P05-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P05",
+  "seg": 6
+ },
+ {
+  "item": "S028",
+  "out_id": "P07-Claude",
+  "app": "Claude",
+  "passage_id": "P07",
+  "seg": 8
+ },
+ {
+  "item": "S029",
+  "out_id": "P12-Claude",
+  "app": "Claude",
+  "passage_id": "P12",
+  "seg": 8
+ },
+ {
+  "item": "S030",
+  "out_id": "P05-Gemini",
+  "app": "Gemini",
+  "passage_id": "P05",
+  "seg": 5
+ },
+ {
+  "item": "S031",
+  "out_id": "P08-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P08",
+  "seg": 4
+ },
+ {
+  "item": "S032",
+  "out_id": "P03-Claude",
+  "app": "Claude",
+  "passage_id": "P03",
+  "seg": 11
+ },
+ {
+  "item": "S033",
+  "out_id": "P07-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P07",
+  "seg": 5
+ },
+ {
+  "item": "S034",
+  "out_id": "P16-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P16",
+  "seg": 1
+ },
+ {
+  "item": "S035",
+  "out_id": "P01-Gemini",
+  "app": "Gemini",
+  "passage_id": "P01",
+  "seg": 11
+ },
+ {
+  "item": "S036",
+  "out_id": "P07-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P07",
+  "seg": 10
+ },
+ {
+  "item": "S037",
+  "out_id": "P09-Claude",
+  "app": "Claude",
+  "passage_id": "P09",
+  "seg": 8
+ },
+ {
+  "item": "S038",
+  "out_id": "P03-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P03",
+  "seg": 7
+ },
+ {
+  "item": "S039",
+  "out_id": "P12-Claude",
+  "app": "Claude",
+  "passage_id": "P12",
+  "seg": 4
+ },
+ {
+  "item": "S040",
+  "out_id": "P09-Gemini",
+  "app": "Gemini",
+  "passage_id": "P09",
+  "seg": 7
+ },
+ {
+  "item": "S041",
+  "out_id": "P02-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P02",
+  "seg": 7
+ },
+ {
+  "item": "S042",
+  "out_id": "P19-Gemini",
+  "app": "Gemini",
+  "passage_id": "P19",
+  "seg": 3
+ },
+ {
+  "item": "S043",
+  "out_id": "P01-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P01",
+  "seg": 0
+ },
+ {
+  "item": "S044",
+  "out_id": "P13-Claude",
+  "app": "Claude",
+  "passage_id": "P13",
+  "seg": 3
+ },
+ {
+  "item": "S045",
+  "out_id": "P13-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P13",
+  "seg": 2
+ },
+ {
+  "item": "S046",
+  "out_id": "P10-Claude",
+  "app": "Claude",
+  "passage_id": "P10",
+  "seg": 8
+ },
+ {
+  "item": "S047",
+  "out_id": "P16-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P16",
+  "seg": 3
+ },
+ {
+  "item": "S048",
+  "out_id": "P10-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P10",
+  "seg": 9
+ },
+ {
+  "item": "S049",
+  "out_id": "P11-Gemini",
+  "app": "Gemini",
+  "passage_id": "P11",
+  "seg": 10
+ },
+ {
+  "item": "S050",
+  "out_id": "P16-Claude",
+  "app": "Claude",
+  "passage_id": "P16",
+  "seg": 4
+ },
+ {
+  "item": "S051",
+  "out_id": "P02-Gemini",
+  "app": "Gemini",
+  "passage_id": "P02",
+  "seg": 9
+ },
+ {
+  "item": "S052",
+  "out_id": "P09-Gemini",
+  "app": "Gemini",
+  "passage_id": "P09",
+  "seg": 5
+ },
+ {
+  "item": "S053",
+  "out_id": "P11-Gemini",
+  "app": "Gemini",
+  "passage_id": "P11",
+  "seg": 9
+ },
+ {
+  "item": "S054",
+  "out_id": "P08-Gemini",
+  "app": "Gemini",
+  "passage_id": "P08",
+  "seg": 4
+ },
+ {
+  "item": "S055",
+  "out_id": "P17-Gemini",
+  "app": "Gemini",
+  "passage_id": "P17",
+  "seg": 8
+ },
+ {
+  "item": "S056",
+  "out_id": "P02-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P02",
+  "seg": 10
+ },
+ {
+  "item": "S057",
+  "out_id": "P03-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P03",
+  "seg": 8
+ },
+ {
+  "item": "S058",
+  "out_id": "P09-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P09",
+  "seg": 3
+ },
+ {
+  "item": "S059",
+  "out_id": "P15-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P15",
+  "seg": 1
+ },
+ {
+  "item": "S060",
+  "out_id": "P20-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P20",
+  "seg": 7
+ },
+ {
+  "item": "S061",
+  "out_id": "P04-Gemini",
+  "app": "Gemini",
+  "passage_id": "P04",
+  "seg": 7
+ },
+ {
+  "item": "S062",
+  "out_id": "P06-Claude",
+  "app": "Claude",
+  "passage_id": "P06",
+  "seg": 2
+ },
+ {
+  "item": "S063",
+  "out_id": "P09-Gemini",
+  "app": "Gemini",
+  "passage_id": "P09",
+  "seg": 4
+ },
+ {
+  "item": "S064",
+  "out_id": "P12-Gemini",
+  "app": "Gemini",
+  "passage_id": "P12",
+  "seg": 2
+ },
+ {
+  "item": "S065",
+  "out_id": "P01-Claude",
+  "app": "Claude",
+  "passage_id": "P01",
+  "seg": 5
+ },
+ {
+  "item": "S066",
+  "out_id": "P19-Gemini",
+  "app": "Gemini",
+  "passage_id": "P19",
+  "seg": 7
+ },
+ {
+  "item": "S067",
+  "out_id": "P13-Gemini",
+  "app": "Gemini",
+  "passage_id": "P13",
+  "seg": 4
+ },
+ {
+  "item": "S068",
+  "out_id": "P17-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P17",
+  "seg": 1
+ },
+ {
+  "item": "S069",
+  "out_id": "P06-Claude",
+  "app": "Claude",
+  "passage_id": "P06",
+  "seg": 4
+ },
+ {
+  "item": "S070",
+  "out_id": "P16-Claude",
+  "app": "Claude",
+  "passage_id": "P16",
+  "seg": 6
+ },
+ {
+  "item": "S071",
+  "out_id": "P11-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P11",
+  "seg": 4
+ },
+ {
+  "item": "S072",
+  "out_id": "P17-Claude",
+  "app": "Claude",
+  "passage_id": "P17",
+  "seg": 8
+ },
+ {
+  "item": "S073",
+  "out_id": "P12-Gemini",
+  "app": "Gemini",
+  "passage_id": "P12",
+  "seg": 9
+ },
+ {
+  "item": "S074",
+  "out_id": "P06-Gemini",
+  "app": "Gemini",
+  "passage_id": "P06",
+  "seg": 6
+ },
+ {
+  "item": "S075",
+  "out_id": "P02-Claude",
+  "app": "Claude",
+  "passage_id": "P02",
+  "seg": 9
+ },
+ {
+  "item": "S076",
+  "out_id": "P14-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P14",
+  "seg": 6
+ },
+ {
+  "item": "S077",
+  "out_id": "P20-Gemini",
+  "app": "Gemini",
+  "passage_id": "P20",
+  "seg": 6
+ },
+ {
+  "item": "S078",
+  "out_id": "P08-Claude",
+  "app": "Claude",
+  "passage_id": "P08",
+  "seg": 3
+ },
+ {
+  "item": "S079",
+  "out_id": "P17-Gemini",
+  "app": "Gemini",
+  "passage_id": "P17",
+  "seg": 4
+ },
+ {
+  "item": "S080",
+  "out_id": "P14-Gemini",
+  "app": "Gemini",
+  "passage_id": "P14",
+  "seg": 2
+ },
+ {
+  "item": "S081",
+  "out_id": "P20-Gemini",
+  "app": "Gemini",
+  "passage_id": "P20",
+  "seg": 8
+ },
+ {
+  "item": "S082",
+  "out_id": "P15-Claude",
+  "app": "Claude",
+  "passage_id": "P15",
+  "seg": 5
+ },
+ {
+  "item": "S083",
+  "out_id": "P15-Claude",
+  "app": "Claude",
+  "passage_id": "P15",
+  "seg": 1
+ },
+ {
+  "item": "S084",
+  "out_id": "P15-Claude",
+  "app": "Claude",
+  "passage_id": "P15",
+  "seg": 8
+ },
+ {
+  "item": "S085",
+  "out_id": "P15-Claude",
+  "app": "Claude",
+  "passage_id": "P15",
+  "seg": 3
+ },
+ {
+  "item": "S086",
+  "out_id": "P15-Gemini",
+  "app": "Gemini",
+  "passage_id": "P15",
+  "seg": 7
+ },
+ {
+  "item": "S087",
+  "out_id": "P20-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P20",
+  "seg": 3
+ },
+ {
+  "item": "S088",
+  "out_id": "P17-Gemini",
+  "app": "Gemini",
+  "passage_id": "P17",
+  "seg": 3
+ },
+ {
+  "item": "S089",
+  "out_id": "P08-Claude",
+  "app": "Claude",
+  "passage_id": "P08",
+  "seg": 7
+ },
+ {
+  "item": "S090",
+  "out_id": "P13-Claude",
+  "app": "Claude",
+  "passage_id": "P13",
+  "seg": 0
+ },
+ {
+  "item": "S091",
+  "out_id": "P20-Claude",
+  "app": "Claude",
+  "passage_id": "P20",
+  "seg": 12
+ },
+ {
+  "item": "S092",
+  "out_id": "P15-Claude",
+  "app": "Claude",
+  "passage_id": "P15",
+  "seg": 6
+ },
+ {
+  "item": "S093",
+  "out_id": "P02-Gemini",
+  "app": "Gemini",
+  "passage_id": "P02",
+  "seg": 4
+ },
+ {
+  "item": "S094",
+  "out_id": "P04-Gemini",
+  "app": "Gemini",
+  "passage_id": "P04",
+  "seg": 2
+ },
+ {
+  "item": "S095",
+  "out_id": "P02-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P02",
+  "seg": 4
+ },
+ {
+  "item": "S096",
+  "out_id": "P17-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P17",
+  "seg": 6
+ },
+ {
+  "item": "S097",
+  "out_id": "P06-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P06",
+  "seg": 5
+ },
+ {
+  "item": "S098",
+  "out_id": "P18-Claude",
+  "app": "Claude",
+  "passage_id": "P18",
+  "seg": 6
+ },
+ {
+  "item": "S099",
+  "out_id": "P02-Claude",
+  "app": "Claude",
+  "passage_id": "P02",
+  "seg": 4
+ },
+ {
+  "item": "S100",
+  "out_id": "P18-ChatGPT",
+  "app": "ChatGPT",
+  "passage_id": "P18",
+  "seg": 3
+ }
+]
