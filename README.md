@@ -1,6 +1,6 @@
 # Detecting Structural Fidelity Failures in GenAI Text Restructuring
 
-Code and data for the Research Methodology Assignment 2 paper by Fakhiha Rameen (26I-7821).
+Code and data for the Research Methodology course research paper by Fakhiha Rameen.
 
 GenAI assistants often *restructure* text for accessibility. They keep the words but add headings, split paragraphs, turn prose into bullets and reorder sentences. This repository contains:
 
